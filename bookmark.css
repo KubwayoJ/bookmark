@@ -1,0 +1,68 @@
+ body {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      background-color: #b5b5c4;
+      display: block;
+
+    }
+    h1 {
+      color: #3a69c7;
+      margin-top: 40px;
+      text-align: center;
+    }
+    .container {
+      background-color: #fff;
+      width: 60%;
+      padding: 15px;
+      margin: 0 auto;
+      border-radius: 10px;
+     
+    }
+    #bookmark-form{
+      display: flex;
+      padding: 20px;
+      gap: 10px;
+     
+    }
+   #website-name{
+      background-color: white;
+      padding: 15px;
+      width: 30rem;
+      border-radius: 7px;
+ 
+    }
+    #website-url{
+      background-color: white;
+      padding: 15px;
+      width: 30rem;
+      border-radius: 7px;
+    
+
+    }
+    #bookmark-form button{
+      background-color: blue;
+      color: white;
+      font-size: 14px;
+      width: 200px;
+      border-radius: 7px;
+    }
+
+    .bookmark {
+      background: #fff;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      margin: 30px 20px; 
+  }
+ 
+    #bookmark-list{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        margin: 0 15rem;
+        width: 55rem;
+        background-color:rgba(243, 13, 13, 0.795))dcea
+      
+     
+    }
+
+   
+
